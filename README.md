@@ -12,20 +12,10 @@ Simple Todo List with fully working **CRUD**. This app was built using Vue.js an
 
    `npm install`
 
-4. Create a build of the front-end
+4. Start the server to run app
 
    ###### Copy and Paste into Terminal
 
-   `npm run build`
+   `npm run serve`
 
-5. Start the server to run app
-
-   ###### Copy and Paste into Terminal
-
-   `node server/index.js`
-
-   ###### If you have nodemon installed run this command
-
-   `nodemon`
-
-6. Open your browser and navigate to [localhost:9000](http://localhost:9000) to view app
+5. Open your browser and navigate to [localhost:9000](http://localhost:8080) to view app
