@@ -18,4 +18,4 @@ Simple Todo List with fully working **CRUD**. This app was built using Vue.js an
 
    `npm run serve`
 
-5. Open your browser and navigate to [localhost:9000](http://localhost:8080) to view app
+5. Open your browser and navigate to [localhost:8080](http://localhost:8080) to view app
